@@ -4,7 +4,9 @@
   "description": "Week 3-4 project",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "swagger": "node ./swagger.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,15 @@
   "bugs": {
     "url": "https://github.com/JesusContreras26/cse-341-project-3-4/issues"
   },
-  "homepage": "https://github.com/JesusContreras26/cse-341-project-3-4#readme"
+  "homepage": "https://github.com/JesusContreras26/cse-341-project-3-4#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-validator": "^7.2.0",
+    "mongodb": "^6.10.0",
+    "nodemon": "^3.1.7",
+    "swagger-autogen": "^2.23.7",
+    "swagger-ui-express": "^5.0.1"
+  }
 }

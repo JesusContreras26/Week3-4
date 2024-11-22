@@ -1,0 +1,139 @@
+[
+  {
+    "book1": {
+      "author_id": "",
+      "name": "The Shining",
+      "genders": ["Gothic", "Horror", "Psychological Horror"],
+      "publishedDate": "1977",
+      "summary": "Stephen King's novel begins with the antagonist, Jack Torrance, being interviewed for a new job. That of the winter caretaker at the Overlook Hotel. The hotel, which depends heavily on summer tourism, is closing for the winter. But, it is going to be Torrence's job to look after the building. The manager, Stuart Ullman, is interviewing Jack and admitting his reservations about hiring the man. ",
+      "pages": "447",
+      "reviews": [
+        "If you had not read The Shining already, the 2013 publication of Doctor Sleep, the sequel, presented an opportunity to revisit one of the best ghost stories of our time, a perfect justification for stepping through those bat-wing doors for the first time.",
+        "Constant Readers may well be surprised, but even after a second reading, this remains one of my least liked early Stephen King reads! This perception is also probably influenced by the far better and classic Stanley Kubrick/Jack Nicholson movie, which I feel is more grounded and a lot less supernatural based than the book. A personal admission I should add for context, is that I find most ghost stories unfathomable because of their reality 'rules' often being bent ad-hoc to meet the needs of the story being told... just like in this book. 5.5 out of 12!",
+        "Stephen King ¡es un genio!"
+      ]
+    },
+
+    "book2": {
+      "author_id": "",
+      "name": "The Stand",
+      "genders": ["Post-Apocalyptic", "Dark Fantasy"],
+      "publishedDate": "1978",
+      "summary": "As the tale begins, a soldier and his family flee a government facility that has become contaminated with an antigen virus intended for use as a biological weapon. This virus eventually kills over 99% of the United States population. Following the initial outbreak, a small number of individual survivors begin to find one another and band together. They all experience recurring dreams of a frightening dark man, and a benevolent old black woman who tells them to come find her in Nebraska. The old woman's name is Abagail, and she believes God has given her a mission to assemble all the survivors in Boulder, Colorado, to prepare for a confrontation with the dark man. Across the Rockies in Las Vegas, a demonic entity known as Randall Flagg is assembling a faction of his own. Flagg intends to destroy all who oppose him and take over the world. Abagail instructs four of the men in the Boulder Free Zone colony to walk to Las Vegas to confront Flagg. They will almost certainly die as a result, but all of them have faith in Abagail's vision and the necessity of making a stand against Flagg. Although three of the four men die, their willingness to confront the forces of darkness succeeds in banishing Flagg and restoring harmony to what remains of the human community.",
+      "pages": "1153",
+      "reviews": [
+        "You know what's really scary? Getting sick while you're reading the first part of The Stand. Just try running a fever, going through a box of tissues and guzzling the better part of a bottle of NyQuil while Stephen King describes the grisly deaths of almost every one on Earth from a superflu. On top of feeling like crap, you'll be terrified. Bonus!",
+        "I loved this book. I read the uncut version years back when I lived in the States, maybe in 2002. I loved everything about it except the ending. I'm a big fan of Stephen King and have 23 of his books on my shelf. Stephen King can only write a good ending to a book by chance. That said, the first 95% of his books is generally so good that I can forgive the ending.",
+        "Dear god this was a lot to get through but DAMN was it worth it. WOW"
+      ]
+    },
+
+    "book3": {
+      "author_id": "",
+      "name": "Les Miserables",
+      "genders": [
+        "Fiction",
+        "France",
+        "Historical Fiction",
+        "French Literature",
+        "Novels"
+      ],
+      "publishedDate": "1862",
+      "summary": "Victor Hugo's tale of injustice, heroism and love follows the fortunes of Jean Valjean, an escaped convict determined to put his criminal past behind him. But his attempts to become a respected member of the community are constantly put under threat: by his own conscience, when, owing to a case of mistaken identity, another man is arrested in his place; and by the relentless investigations of the dogged Inspector Javert. It is not simply for himself that Valjean must stay free, however, for he has sworn to protect the baby daughter of Fantine, driven to prostitution by poverty.",
+      "pages": "1463",
+      "reviews": [
+        "Les Misérables is a French historical novel by Victor Hugo, first published in 1862, that is considered one of the greatest novels of the 19th century.",
+        "Jamás he leído nada igual. Ni lo haré. Ya sé que eso suena exagerado, pero sé perfectamente que no leeré nada tan bueno de nuevo. Los Miserables está a un nivel que solo Victor Hugo puede llegar a tocar.",
+        "I saw the movie version of this before reading it and I was utterly shook by the powerful nature of the story. When I read it I hoped for the same experience, instead I had one more powerful. In life there are few truly great men: there are few men that are truly and incorruptibly good. Jean Valjean is such a man; he is a paragon of goodliness: he is a superb character."
+      ]
+    },
+
+    "book4": {
+      "author_id": "",
+      "name": "The Hunchback of Notre-Dame",
+      "genders": [
+        "Fiction",
+        "Classics",
+        "Gothic",
+        "Historical Fiction",
+        "Literature"
+      ],
+      "publishedDate": "1831",
+      "summary": "This extraordinary historical French gothic novel, set in Medieval Paris under the twin towers of its greatest structure and supreme symbol, the cathedral of Notre-Dame, is the haunting drama of Quasimodo, the disabled bell-ringer of Notre-Dame, as he struggles to stand up to his ableist guardian Claude Frollo, who also wants to commit genocide against Paris' Romani population.",
+      "pages": "510",
+      "reviews": [
+        "A reread and well worth it!",
+        "ok... i'll be honest. i hated the first 150 pages and had i not been reading it for book club i would have abandoned it. about 300 pages in i started to think it was okay. around 400... i really liked it. at page 450 i couldn't put it down. i stayed up till 2am last night finishing it.",
+        "This was a great story! I can't believe it took me this long to discover this book. This is my first Victor Hugo attempt and I really enjoyed it."
+      ]
+    },
+
+    "book5": {
+      "author_id": "",
+      "name": "One Hundred Years of Solitude",
+      "genders": [
+        "Fiction",
+        "Magical Realism",
+        "Fantasy",
+        "Spanish Literature"
+      ],
+      "publishedDate": "1967",
+      "summary": "The brilliant, bestselling, landmark novel that tells the story of the Buendia family, and chronicles the irreconcilable conflict between the desire for solitude and the need for love—in rich, imaginative prose that has come to define an entire genre known as 'magical realism.'",
+      "pages": "417",
+      "reviews": [
+        "In all of world literature there is a division: 1) One Hundred Years of Solitude and 2) all other books.",
+        "One Hundred Years of Solitude is an absolute ground-breaking book; it is intelligent, creative and full of powerful anecdotal wisdom. It deservedly won the noble prize for literature. But how enjoyable is it? How readable is it?",
+        "Well Mr Marquez may have a Nobel Prize for his mantelpiece and a pretty good imagination for writing what with the levitating women and babies made of ice cream but he has no imagination at all when he is thinking of his characters names which are like to drive you entirely insane in this novel, will you please look at this. There are five people called Arcadio, ,three ladies called Remedios, two ladies called Amaranta and there's a Pietro and a Petra which look quite similar, and there are 23 people called Aureliano (17 of them sons of an Aureliano, so this father has as much lack of name imagination as Mr Marquez). It does give a reader brain ache trying to remember who is who and why they are levitating and which one lives to be 530 years old. I think this is a very good novel for people who like to go into trances for hours at a time."
+      ]
+    },
+
+    "book6": {
+      "author_id": "",
+      "name": "Love in the Time of Cholera",
+      "genders": [
+        "Fiction",
+        "Literature",
+        "Magical Realism",
+        "Spanish Literature",
+        "Novels"
+      ],
+      "publishedDate": "1985",
+      "summary": "In their youth, Florentino Ariza and Fermina Daza fall passionately in love. When Fermina eventually chooses to marry a wealthy, well-born doctor, Florentino is heartbroken, but he is a romantic. As he rises in his business career he whiles away the years in 622 affairs—yet he reserves his heart for Fermina. Her husband dies at last, and Florentino purposefully attends the funeral. Fifty years, nine months, and four days after he first declared his love for Fermina, he will do so again.",
+      "pages": "1985",
+      "reviews": [
+        "DNF at page 218. This is tough for me to admit. I hate not finishing books but I cannot carry on with this any longer when I am not enjoying it and I have so many other books I could be reading instead.",
+        "Una de las más grandes historias de amor jamás contada. Una de las mejor contadas historias de amor jamás vivida.",
+        "'Love in the Time of Cholera' is one of those novels whose beauty fits the title. At the time of its publication in 1985, readers' enthusiasm was in keeping with the prestige of its author, Gabriel Garcia Marquez, who was awarded the Nobel Prize for Literature three years earlier."
+      ]
+    }
+  },
+
+  {
+    "author1": {
+      "firstName": "Stephen",
+      "lastName": "King",
+      "birthday": "21/09/47",
+      "favoriteGenders": [
+        "Horror",
+        "Fantasy",
+        "SuperNatural",
+        "Fiction",
+        "Drama",
+        "Gothic"
+      ]
+    },
+    "author2": {
+      "firstName": "Victor",
+      "lastName": "Hugo",
+      "birthday": "26/02/85",
+      "favoriteGenders": ["Novel", "Poetry", "Theatre", "Fiction"]
+    },
+
+    "author3": {
+      "firstName": "Gabriel",
+      "lastName": "Marquez",
+      "birthday": "06/03/1927",
+      "favoriteGenders": ["Novel", "Poetry", "Fantasy", "Fiction"]
+    }
+  }
+]
