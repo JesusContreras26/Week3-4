@@ -24,18 +24,18 @@ GET http://localhost:3000/authors/670f14a7ab685e8ea9e9f46c/books
 
 
 ### PUT contact
-PUT http://localhost:3000/authors/670d18bf7becadc28f0e1ad9 HTTP/1.1
+PUT http://localhost:3000/authors/67105df0fc97767791b195d5 HTTP/1.1
 content-type: application/json
 
 {
-    "firstName": "Stephen",
+    "firstName": "Peter",
     "lastName": "King",
     "birthday": "21/09/47",
     "favoriteGenders": ["Horror","Fantasy","SuperNatural","Fiction","Drama","Gothic"],
     "authorId": "6"
 }
 ### DELETE contact
-DELETE http://localhost:3000/authors/670d18bf7becadc28f0e1ad9 HTTP/1.1
+DELETE http://localhost:3000/authors/67426d0f9d34e8ccd20a4cbe HTTP/1.1
 
 
 ### GET all books
@@ -108,7 +108,7 @@ GET https://cse-341-project2-3.onrender.com/authors/670f14a7ab685e8ea9e9f46c/boo
 
 
 ### PUT contact
-PUT https://cse-341-project2-3.onrender.com/authors/670d18bf7becadc28f0e1ad9 HTTP/1.1
+PUT https://cse-341-project2-3.onrender.com/authors/67105df0fc97767791b195d5 HTTP/1.1
 content-type: application/json
 
 {
@@ -119,7 +119,7 @@ content-type: application/json
     "authorId": "1"
 }
 ### DELETE contact
-DELETE https://cse-341-project2-3.onrender.com/authors/670d18bf7becadc28f0e1ad9 HTTP/1.1
+DELETE https://cse-341-project2-3.onrender.com/authors/67426d0f9d34e8ccd20a4cbe HTTP/1.1
 
 ### GET all books
 GET https://cse-341-project2-3.onrender.com/books
