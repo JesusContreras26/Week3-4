@@ -84,15 +84,15 @@ DELETE http://localhost:3000/books/67411995ca9fec7549d1e7da
 
 // LOCALHOST
 ### Get all authors
-GET https://cse-341-project2-3.onrender.com/authors
+GET https://cse-341-project3-4.onrender.com/authors
 
 
 ### Get author by id
-GET https://cse-341-project2-3.onrender.com/authors/670f14a7ab685e8ea9e9f46c
+GET https://cse-341-project3-4.onrender.com/authors/670f14a7ab685e8ea9e9f46c
 
 
 ### Create author
-POST https://cse-341-project2-3.onrender.com/authors HTTP/1.1
+POST https://cse-341-project3-4.onrender.com/authors HTTP/1.1
 content-type: application/json
 
 {
@@ -104,11 +104,11 @@ content-type: application/json
 }
 
 ### Get author books
-GET https://cse-341-project2-3.onrender.com/authors/670f14a7ab685e8ea9e9f46c/books
+GET https://cse-341-project3-4.onrender.com/authors/670f14a7ab685e8ea9e9f46c/books
 
 
 ### PUT contact
-PUT https://cse-341-project2-3.onrender.com/authors/67105df0fc97767791b195d5 HTTP/1.1
+PUT https://cse-341-project3-4.onrender.com/authors/67105df0fc97767791b195d5 HTTP/1.1
 content-type: application/json
 
 {
@@ -119,16 +119,16 @@ content-type: application/json
     "authorId": "1"
 }
 ### DELETE contact
-DELETE https://cse-341-project2-3.onrender.com/authors/67426d0f9d34e8ccd20a4cbe HTTP/1.1
+DELETE https://cse-341-project3-4.onrender.com/authors/67426d0f9d34e8ccd20a4cbe HTTP/1.1
 
 ### GET all books
-GET https://cse-341-project2-3.onrender.com/books
+GET https://cse-341-project3-4.onrender.com/books
 
 ### GET book by id
-GET https://cse-341-project2-3.onrender.com/books/671282cb9055b0df3ceb0815
+GET https://cse-341-project3-4.onrender.com/books/671282cb9055b0df3ceb0815
 
 ### Create a new book
-POST https://cse-341-project2-3.onrender.com/books
+POST https://cse-341-project3-4.onrender.com/books
 content-type: application/json
 
 {
@@ -142,7 +142,7 @@ content-type: application/json
 }
 
 ### Edit and existing book
-PUT https://cse-341-project2-3.onrender.com/books/671282cb9055b0df3ceb0815
+PUT https://cse-341-project3-4.onrender.com/books/671282cb9055b0df3ceb0815
 content-type: application/json
 
 {
@@ -156,4 +156,4 @@ content-type: application/json
 }
 
 ### Delete a book
-DELETE https://cse-341-project2-3.onrender.com/books/67411995ca9fec7549d1e7da
+DELETE https://cse-341-project3-4.onrender.com/books/67411995ca9fec7549d1e7da
